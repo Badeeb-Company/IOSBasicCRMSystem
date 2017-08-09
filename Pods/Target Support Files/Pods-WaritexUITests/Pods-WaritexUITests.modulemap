@@ -1,0 +1,6 @@
+framework module Pods_WaritexUITests {
+  umbrella header "Pods-WaritexUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,123 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0RT-1T-4iE"; */
+"0RT-1T-4iE.text" = "Label";
+
+/* Class = "UILabel"; text = "Waritex Version 1.0"; ObjectID = "2o9-UZ-6bt"; */
+"2o9-UZ-6bt.text" = "Waritex Version 1.0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "68F-oX-etc"; */
+"68F-oX-etc.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6Mk-qg-TB6"; */
+"6Mk-qg-TB6.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6hF-dV-0kP"; */
+"6hF-dV-0kP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B1E-0x-Xza"; */
+"B1E-0x-Xza.text" = "Label";
+
+/* Class = "UILabel"; text = "ساري حتي: ١٢٣٢١٣١٢٣"; ObjectID = "BdR-la-et4"; */
+"BdR-la-et4.text" = "ساري حتي: ١٢٣٢١٣١٢٣";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CnH-mz-h9L"; */
+"CnH-mz-h9L.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DNr-Ou-0Vd"; */
+"DNr-Ou-0Vd.text" = "Label";
+
+/* Class = "UILabel"; text = "About Waritex"; ObjectID = "jSP-SI-pOL"; */
+"jSP-SI-pOL.text" = "عن وريتكس";
+
+/* Class = "UIButton"; normalTitle = "عرض الموزعين"; ObjectID = "JLc-TU-jr4"; */
+"JLc-TU-jr4.normalTitle" = "عرض الموزعين";
+
+/* Class = "UILabel"; text = "عن الشركة"; ObjectID = "KOk-bK-fAk"; */
+"KOk-bK-fAk.text" = "عن الشركة";
+
+/* Class = "UINavigationItem"; title = "Waritex"; ObjectID = "Ni4-de-Jk4"; */
+"Ni4-de-Jk4.title" = "Waritex";
+
+/* Class = "UILabel"; text = "الفاكس :"; ObjectID = "OUK-Hy-CPB"; */
+"OUK-Hy-CPB.text" = "الفاكس :";
+
+/* Class = "UILabel"; text = "تابعنا علي:"; ObjectID = "PLz-Ia-4Os"; */
+"PLz-Ia-4Os.text" = "تابعنا علي:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S1f-N5-rDV"; */
+"S1f-N5-rDV.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VTT-pH-drl"; */
+"VTT-pH-drl.text" = "Label";
+
+/* Class = "UILabel"; text = "إسم الصنف"; ObjectID = "WEX-MR-026"; */
+"WEX-MR-026.text" = "إسم الصنف";
+
+/* Class = "UINavigationItem"; title = "Waritex"; ObjectID = "WQY-8i-5KS"; */
+"WQY-8i-5KS.title" = "Waritex";
+
+/* Class = "UILabel"; text = "عن العرض"; ObjectID = "Y9z-x7-5py"; */
+"Y9z-x7-5py.text" = "عن العرض";
+
+/* Class = "UILabel"; text = "١٣٢٣٢١"; ObjectID = "YYE-fO-Ptu"; */
+"YYE-fO-Ptu.text" = "١٣٢٣٢١";
+
+/* Class = "UITabBarItem"; title = "منتجاتنا"; ObjectID = "ZH3-fJ-F6C"; */
+"ZH3-fJ-F6C.title" = "منتجاتنا";
+
+/* Class = "UILabel"; text = "Developed by Badeeb LLC"; ObjectID = "c1s-6Q-J4M"; */
+"c1s-6Q-J4M.text" = "Developed by Badeeb LLC";
+
+/* Class = "UILabel"; text = "إعدادات التطبيق"; ObjectID = "eYQ-xK-WGC"; */
+"eYQ-xK-WGC.text" = "إعدادات التطبيق";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "enx-kD-94p"; */
+"enx-kD-94p.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "العروض"; ObjectID = "fka-Ss-08p"; */
+"fka-Ss-08p.title" = "العروض";
+
+/* Class = "UILabel"; text = "السماح بالإشعارات"; ObjectID = "fvj-2f-RgX"; */
+"fvj-2f-RgX.text" = "السماح بالإشعارات";
+
+/* Class = "UIButton"; normalTitle = "عرض الخريطة"; ObjectID = "gcs-00-A4d"; */
+"gcs-00-A4d.normalTitle" = "عرض الخريطة";
+
+/* Class = "UILabel"; text = "مشاركة التطبيق مع الأصدقاء"; ObjectID = "h6K-Ws-9jn"; */
+"h6K-Ws-9jn.text" = "مشاركة التطبيق مع الأصدقاء";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hgJ-GA-01q"; */
+"hgJ-GA-01q.text" = "Label";
+
+/* Class = "UILabel"; text = "التليفون :"; ObjectID = "jea-2Z-z9v"; */
+"jea-2Z-z9v.text" = "التليفون :";
+
+/* Class = "UILabel"; text = "العنوان ١٩"; ObjectID = "kuO-eP-FOt"; */
+"kuO-eP-FOt.text" = "العنوان ١٩";
+
+/* Class = "UITabBarItem"; title = "منتجاتنا"; ObjectID = "nJl-Gb-Gqk"; */
+"nJl-Gb-Gqk.title" = "منتجاتنا";
+
+/* Class = "UITabBarItem"; title = "العروض المنتهية"; ObjectID = "q62-zc-ox0"; */
+"q62-zc-ox0.title" = "العروض المنتهية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "quU-af-VJr"; */
+"quU-af-VJr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "r4I-ns-QcR"; */
+"r4I-ns-QcR.text" = "Label";
+
+/* Class = "UILabel"; text = "١٣٢٣٢١"; ObjectID = "tJ4-lE-Ofa"; */
+"tJ4-lE-Ofa.text" = "١٣٢٣٢١";
+
+/* Class = "UINavigationItem"; title = "Waritex"; ObjectID = "uF1-3S-49q"; */
+"uF1-3S-49q.title" = "Waritex";
+
+/* Class = "UILabel"; text = "تقييم التطبيق علي المتجر"; ObjectID = "vP5-lI-FrA"; */
+"vP5-lI-FrA.text" = "تقييم التطبيق علي المتجر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wV6-8Z-zoj"; */
+"wV6-8Z-zoj.text" = "Label";
+/* Class = "UILabel"; text = "Label"; ObjectID = "sm6-CK-ulw"; */
+"sm6-CK-ulw.text" = "اللغة الإنجليزية";
+
